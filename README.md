@@ -296,7 +296,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **中文:**
 - **原作者**: Chao Feng
-- **当前维护者**: 姜子曦 (YichuanAlex)
+- **当前维护者**: 江子曦 (YichuanAlex)
 - **邮箱**: jiangzixi1527435659@gmail.com
 - **GitHub**: https://github.com/YichuanAlex
 
